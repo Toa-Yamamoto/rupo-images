@@ -1,0 +1,15 @@
+{
+  "_schema": {
+    "version": 1,
+    "description": "ルポ画像ライブラリのメタデータ。 entries の各エントリは1枚の画像を表す。",
+    "entry_format": {
+      "filename": "library/ 配下のファイル名",
+      "url": "GitHub raw URL（公開アクセス可能）",
+      "description": "ライターが画像内容を判断するための日本語説明",
+      "tags": "マッチング用のキーワード配列",
+      "added_at": "ISO8601 日付（追加日）",
+      "use_cases": "どんなポストに使うか（例: ターミナル系・成果報告系）"
+    }
+  },
+  "entries": []
+}
